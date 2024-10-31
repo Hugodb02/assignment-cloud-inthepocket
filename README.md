@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment: Bowling algorithm
 
 The goal of this assignment is to implement the bowling scoring algorithm.  
@@ -83,3 +84,6 @@ Alternatively, you can use any other HTTP client.
 
 [rules]: https://www.myactivesg.com/sports/bowling/how-to-play/bowling-rules/how-are-points-determined-in-bowling
 [node-install]: https://nodejs.org/en/download/
+=======
+# assignment-cloud-inthepocket
+>>>>>>> 3fc043f8d16efd294f8495251d696363d1d3fe08
